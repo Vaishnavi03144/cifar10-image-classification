@@ -1,8 +1,5 @@
 # cifar10-image-classification
 CIFAR-10 image classification using CNN with TensorFlow/Keras
-# cifar10-image-classification
-
-CIFAR-10 image classification using CNN with TensorFlow/Keras.
 ## Project Overview
 This project builds a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset into 10 different categories.
 ## Dataset
