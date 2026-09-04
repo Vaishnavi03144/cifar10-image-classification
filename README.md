@@ -234,13 +234,9 @@ CIFAR-10-Image-Classification/
 
 ## 🌐 Project Links
 
-### 📓 Google Colab
-
-**[Add your Google Colab link here]**
-
 ### 💻 GitHub Repository
 
-**[Add your GitHub repository link here]**
+**https://github.com/Vaishnavi03144/cifar10-image-classification/tree/main**
 
 ---
 
